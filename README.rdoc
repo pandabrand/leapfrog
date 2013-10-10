@@ -1,0 +1,5 @@
+h1. Running LFO Integration tests
+
+* Requires Sinatra
+* Run the 'main.rb' file
+* In the 'gemsrc' dir run 'rake'  
